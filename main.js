@@ -3,8 +3,7 @@ while(1){
         if(question === '東京'){
             alert('正解です！');
             break;
-        }else{
+        } else {
             alert('不正解です！');
-            break;
         }
 }
